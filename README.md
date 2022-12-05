@@ -3,3 +3,4 @@
 # I plan to make a full fledged website, but my skills are a bit far from that, so this is my first project to learn how to get into that!
 # The txt file for DS2 must be downloaded, because there is no availabe formula used for DS2. The program will take the values provided and turn them into a list, which is then used to determine the total amount of souls needed in DS2.
 # If you see any errors or could offer some improvements, please do.
+# Update: I have turned this into a full fledged website, but will be keeping this code up as a way to show where I started this project
